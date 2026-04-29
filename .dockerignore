@@ -1,0 +1,14 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+output/
+*.mp4
+*.log
+*.jpg
+*.png
+*.gif
+Wan2.2-I2V-A14B/
