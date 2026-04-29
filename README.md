@@ -10,7 +10,7 @@ Wan2.2 I2V 图生视频 WebUI，基于 Gradio。
 docker run --gpus all -p 17861:17861 \
   -v /path/to/Wan2.2-I2V-A14B:/app/Wan2.2-I2V-A14B \
   -v /path/to/output:/app/output \
-  registry.cn-hangzhou.aliyuncs.com/mycangku_tusuklll/wan22-ui:latest
+  registry.cn-hangzhou.aliyuncs.com/${ACR_NAMESPACE}/wan22-ui:latest
 ```
 
 访问 `http://localhost:17861/wan22`
