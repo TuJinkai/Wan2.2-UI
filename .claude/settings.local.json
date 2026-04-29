@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf Wan2.2-main/.git)",
+      "Bash(git add *)"
+    ]
+  }
+}

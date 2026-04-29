@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: registry.cn-hangzhou.aliyuncs.com
-  IMAGE_NAME: tujinkai/wan22-ui
+  IMAGE_NAME: mycangku_tusuklll/wan22-ui
 
 jobs:
   build-and-push:
